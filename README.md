@@ -3,7 +3,7 @@ Learning how to bundle Node.js applications with pkg.
 
 ## Use the demo application
 
-The demo application is a http webserver that serves a quoted text message. The application can be passed a text via the commandline. See [./bin.js](https://github.com/countzero/learning_node_pkg/blob/master/bin.js) for technical details.
+The demo application is a http webserver that serves a quoted text message. See [bin.js](https://github.com/countzero/learning_node_pkg/blob/master/bin.js) for technical details.
 
 ### Download the executable for your platform
 
