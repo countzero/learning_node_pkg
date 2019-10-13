@@ -1,0 +1,14 @@
+#
+# .gitignore
+#
+
+# Ignore the 'node_modules' directory.
+node_modules/*
+
+# Ignore Sublime Text files.
+*.sublime-workspace
+
+# Ignore the created binaries.
+*-linux
+*-macos
+*-win.exe

@@ -1,0 +1,12 @@
+{
+    "name": "node_bundle_executable",
+    "version": "1.0.0",
+    "description": "Learning how to bundle Node.js applications with pkg.",
+    "main": "main.js",
+    "bin": "bin.js",
+    "author": "Finn Kumkar",
+    "license": "MIT",
+    "dependencies": {
+        "open": "6.4.0"
+    }
+}
